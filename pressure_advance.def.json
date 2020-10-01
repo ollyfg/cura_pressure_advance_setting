@@ -1,0 +1,13 @@
+{
+  "material_pressure_advance_factor": {
+    "label": "Pressure Advance",
+    "description": "Sets the pressure advance",
+    "type": "float",
+    "default_value": 0,
+    "minimum_value": "0",
+    "maximum_value_warning": "2.0",
+    "settable_per_mesh": false,
+    "settable_per_extruder": true,
+    "settable_per_meshgroup": false
+  }
+}
