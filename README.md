@@ -7,3 +7,11 @@ Though it has not been tested, this plugin should work with the "Material Settin
 ## Installing
 
 The recommended way to install this plugin is via the Cura Marketplace. Just search for "Pressure Advance".
+
+## Packaging
+
+From the directory above this repository:
+
+```
+zip -rq plugin.zip cura_pressure_advance_setting
+```
